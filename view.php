@@ -22,6 +22,7 @@
     echo $rec['nickname'];
     echo $rec['email'];
     echo $rec['content'];
+    echo '<br>';
   }
 
   // ③DB切断
